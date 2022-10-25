@@ -4,7 +4,7 @@ Copyright (c) 2022, GM Consult Pty Ltd
 All rights reserved. 
 -->
 
-[![GM Consult Pty Ltd](https://raw.githubusercontent.com/GM-Consult-Pty-Ltd/gmconsult_dart_core/main/dev/images/package_header.png?raw=true "GM Consult Pty Ltd")](https://github.com/GM-Consult-Pty-Ltd)
+[![GM Consult Core DART libraries](https://raw.githubusercontent.com/GM-Consult-Pty-Ltd/gmconsult_dart_core/main/dev/images/package_header.png?raw=true "Core DART libraries for GM Consult applications")](https://github.com/GM-Consult-Pty-Ltd)
 ## **Core DART libraries that provide a framework for GM Consult DART applications.**
 
 *THIS PACKAGE IS A PROPRIETARY, UNLISTED RESOURCE AND SUBJECT TO BREAKING CHANGES WITHOUT NOTICE.*

@@ -4,7 +4,7 @@
 
 name: gmconsult_dart_core
 description: Core DART libraries that provide a framework for GM Consult DART applications.
-version: 0.0.6
+version: 0.0.7
 repository: https://github.com/GM-Consult-Pty-Ltd/gmconsult_dart_core
 homepage: https://github.com/GM-Consult-Pty-Ltd
 issue_tracker: https://github.com/GM-Consult-Pty-Ltd/gmconsult_dart_core/issues

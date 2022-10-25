@@ -4,8 +4,14 @@ Copyright (c) 2022, GM Consult Pty Ltd
 All rights reserved. 
 -->
 
+## 0.0.7
+**Beta Stable Release**
 
-## 0.0.6
+### *Updated*
+* Dependencies.
+* Documentation
+
+## 0.0.7
 **Beta Stable Release**
 
 ### *New*
